@@ -1,0 +1,12 @@
+{
+  "name": "play-with-writer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gnanasekaran0042/play-with-writer.git",
+  "author": "Sekar <gnanasekaran.srgm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "scripts": {}
+}
