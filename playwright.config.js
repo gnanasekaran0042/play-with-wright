@@ -14,6 +14,7 @@ const { devices } = require('@playwright/test');
  */
 const config = {
   testDir: './tests',
+  outputDir: "tests/_output",
   /* Maximum time one test can run for. */
   timeout: 30 * 1000,
   expect: {
@@ -42,6 +43,8 @@ const config = {
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
+
+    storageState: "./tests/_output/storageState.json",
   },
 
   /* Configure projects for major browsers */

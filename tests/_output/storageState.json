@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_test_cookie",
+      "value": "WP+Cookie+check",
+      "domain": "test.stateofedu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wordpress_sec_a2f49c8eeacf6f826dfeee2eb7d3daa0",
+      "value": "1kq1o%7C1668715194%7CAxRMciG7yFgZ7hfbAnMQDiL14PKCDdczUpk8PYW2YJa%7C58e3cdc4e7cd722efbe27874d9790223a44660625824b63aa7c5a29b5e0e2bea",
+      "domain": "test.stateofedu.com",
+      "path": "/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wordpress_sec_a2f49c8eeacf6f826dfeee2eb7d3daa0",
+      "value": "1kq1o%7C1668715194%7CAxRMciG7yFgZ7hfbAnMQDiL14PKCDdczUpk8PYW2YJa%7C58e3cdc4e7cd722efbe27874d9790223a44660625824b63aa7c5a29b5e0e2bea",
+      "domain": "test.stateofedu.com",
+      "path": "/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wordpress_logged_in_a2f49c8eeacf6f826dfeee2eb7d3daa0",
+      "value": "1kq1o%7C1668715194%7CAxRMciG7yFgZ7hfbAnMQDiL14PKCDdczUpk8PYW2YJa%7C53f32043ce1a90be258b7d12f3b1851572b865cdf450eb59386bbd51fdd1c21e",
+      "domain": "test.stateofedu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wp_lang",
+      "value": "en_US",
+      "domain": "test.stateofedu.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
